@@ -2,8 +2,7 @@
 
 Integrate crypto payments into your React applications with the `PayWithMetaMaskButton` by Leumas Tech. Perfect for microservices and eCommerce stores, allowing users to pay directly to your wallet address using MetaMask.
 
-- **Checkout the NPM Package**: [Here on NPM]([https://www.youtube.com/@l.e.u.m.a.s4218](https://www.npmjs.com/package/leumas-metamask-quickpay))
-
+- **Checkout the NPM Package**: [Here on NPM]([https://www.youtube.com/@l.e.u.m.a.s4218](https://www.npmjs.com/package/leumas-metamask-quickpay)
 - 
 ## Features
 
