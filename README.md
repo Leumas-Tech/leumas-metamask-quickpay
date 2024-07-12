@@ -17,7 +17,7 @@ Install the package via npm:
 
 ```bash
 npm install leumas-metamask-quickpay
-
+```
 
 # Example
 
