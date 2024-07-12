@@ -24,12 +24,15 @@ npm install leumas-metamask-quickpay
 ```
 import React from 'react';
 import PayWithMetaMaskButton from 'leumas-metamask-pay';
-
+```
+```
 const YourComponent = () => {
   const handlePaymentSuccess = () => {
     console.log('Payment Successful!');
   };
+```
 
+```
   return (
     <div>
       <h1>Buy our product</h1>
