@@ -1,0 +1,51 @@
+{
+  "name": "leumas-metamask-quickpay",
+  "version": "1.0.10",
+  "description": "Quickly pay with MetaMask. Pay with crypto",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "metamask",
+    "quickpay",
+    "checkout",
+    "pay",
+    "with",
+    "crypto",
+    "react",
+    "jsx"
+  ],
+  "author": "William Bermudez",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=17.0.2 <=18.x",
+    "react-dom": ">=17.0.2 <=18.x"
+  },
+  "devDependencies": {
+    "@rollup/plugin-babel": "^5.3.0",
+    "@rollup/plugin-commonjs": "^17.1.0",
+    "@rollup/plugin-node-resolve": "^11.2.1",
+    "@rollup/plugin-url": "^6.0.0",
+    "rollup": "^2.38.5",
+    "rollup-plugin-css-only": "^3.1.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.0",
+    "rollup-plugin-terser": "^7.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/leumas-metamask-quickpay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/leumas-metamask-quickpay/issues"
+  },
+  "homepage": "https://github.com/yourusername/leumas-metamask-quickpay#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.24.8",
+    "@babel/preset-react": "^7.24.7",
+    "react-epic-spinners": "^0.5.0"
+  }
+}
